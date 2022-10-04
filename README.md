@@ -1,8 +1,7 @@
 ### Olá, Eu sou o Geovani Antunes
 
-- 🔭 I am currently working on support integrations
-- 🌱 I'm updating Frontend
-- 😄 Pronouns: He/His
+- 🔭 I'm currently studying computer science, and I work with general integration support
+- 🖥️ I'm updating Frontend
 
 <div align="center">
   <a href="https://github.com/geovani-antunes">

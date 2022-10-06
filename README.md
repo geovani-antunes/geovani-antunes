@@ -1,4 +1,4 @@
-### Hello, I'm Geovani Geovani Antunes
+### Hello, I'm Geovani Antunes
 
 - 🔭 I'm currently studying computer science, and I work with general integration support
 - 🖥️ I'm updating Frontend

@@ -12,7 +12,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Geovani-Js" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Geovani-Ts" height="30" width="40" title="Typescript"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Geovani-React" height="30" width="40" title="React"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Geovani-React" height="30" width="40" title="React" 
+<img align="center" alt="Geovani-PHP" height="30" width="40" title="PHP"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Geovani-HTML" height="30" width="40" title="HTML5"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Geovani-CSS" height="30" width="40" title="CSS3"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 

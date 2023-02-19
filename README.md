@@ -8,7 +8,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Geovani-Antunes&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFAFA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 
 
 <p align="center">
